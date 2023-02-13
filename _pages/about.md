@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: 微软最具价值专家（MVP）、华为云最具价值专家（MVP）
+subtitle: 曾任微软最具价值专家（MVP）、华为云最具价值专家（MVP）
 
 profile:
   align: right
   image: prof_pic_v2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>邮件：info@itdabai.cn</p>
+    <p>邮件：info@zhouwenyang.com</p>
     <p>微信：471152</p>
 
 news: true  # includes a list of news items
