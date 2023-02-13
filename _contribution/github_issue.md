@@ -6,5 +6,3 @@
 
 <img width="845" alt="image" src="https://user-images.githubusercontent.com/6780666/218498234-d9aa6543-facb-484d-b064-9ee5a0eecb42.png">
 
-
-4. github connect issue - cannot view details of search result without internet.
