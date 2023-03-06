@@ -1,5 +1,7 @@
 
-
+```
+Created multiple IM groups to discuss Microsoft-related technologies, mainly focusing on devops-related fields.
+```
 
 
 1. Tiktok
