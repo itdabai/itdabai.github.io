@@ -1,4 +1,16 @@
 
+```
+Shared DevOps Best practices based on Azure DevOps many times last year.
+
+- Topic01: Database CI Best practices based on Azure DevOps.
+- Topic02: Azure DevOps Tips
+- Topic03: DevOps Best practices from Microsoft
+- Topic04: Azure DevOps Must-have Extension 
+- Topic05: DevOps Best practices in the Financial Industry
+
+
+```
+
 ![image](https://user-images.githubusercontent.com/6780666/218507379-e73b0af3-f607-4776-9365-eed13c07c568.png)
 
 ![image](https://user-images.githubusercontent.com/6780666/218507294-273df1f0-a826-447c-bfd9-f89b012d598c.png)
