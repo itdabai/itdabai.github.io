@@ -1,6 +1,8 @@
 
 ## Wechat Group  (more than 30 wechat group with nearly ten thousand members)
 
+Used to help more AI community members understand AI, AI agents, including open source and commercial Agent platforms such as Microsoft AutoGen and ByteDance Coze
+
 ![image](./images/wegroup01.jpg)
 
 ![image](./images/wegroup02.jpg)
